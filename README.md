@@ -1,2 +1,0 @@
-# hordiichuk
-strona do ćwiczeń
