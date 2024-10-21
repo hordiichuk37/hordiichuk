@@ -1,0 +1,23 @@
+.forma{
+    display: flex;
+    justify-content: right;
+    margin-right: 150px;
+    margin-top: -40px;
+}
+
+.formularz{
+    margin-left: 100px;
+}
+
+.but1{
+    display: flex;
+    justify-content: left;
+    margin-left: 100px;
+    
+}
+
+.but2{
+    display: flex;
+    justify-content: right;
+    margin-right: 100px;
+}
